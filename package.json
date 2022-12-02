@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code-2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gcarlin2704/advent-of-code-2022.git",
+  "author": "Giancarlo Carlin <gcarlin@efuse.io>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
